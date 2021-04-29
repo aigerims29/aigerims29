@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aigerims29
 - 👀 I’m interested in remote sensing and photogrammetry, coding, geosciense.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on projects related on Geosciense.
+- 💞️ I’m looking to collaborate on projects related to Geosciense.
 - 📫 How to reach me aigerims10.29@gmail.com
 
 <!---
